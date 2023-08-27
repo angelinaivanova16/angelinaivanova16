@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I`m Angelina 👋
+- 😄 I am good at JavaScript, HTML, CSS, version control (git, github).
+- 🌱 I’m currently learning React and Redux.
+- 📫 How to reach me: angelinaivanova16@gmail.com, telegram: @angelinanikiv
+- ⚡ My codewars:
+<img src="https://www.codewars.com/users/angelina765436877/badges/large" alt="codewars">
 
 <!--
 **angelinaivanova16/angelinaivanova16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
