@@ -1,6 +1,7 @@
 ### Hi there I`m Angelina 👋
-- 😄 I am good at JavaScript, HTML, CSS, version control (git, github).
-- 🌱 I’m currently learning React and Redux.
+- 😄 I am good at React and Redux, REST API.
+- 🔭 Worked on project with JavaScript, HTML, CSS, version control (git, github).
+- 🌱 I’m currently learning TypeScript.
 - 📫 How to reach me: angelinaivanova16@gmail.com, telegram: @angelinanikiv
 - ⚡ My codewars:
 <img src="https://www.codewars.com/users/angelina765436877/badges/large" alt="codewars">
