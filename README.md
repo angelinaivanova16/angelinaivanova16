@@ -1,4 +1,5 @@
 ### Hi there I`m Angelina 👋
+My CV: https://angelinaivanova16.github.io/cv/
 - 😄 I am good at React and Redux, REST API.
 - 🔭 Worked on project with JavaScript, HTML, CSS, version control (git, github).
 - 🌱 I’m currently learning TypeScript.
