@@ -1,5 +1,5 @@
 ### Hi there I`m Angelina 👋
-My job: ✨ Aston ✨
+My job: ✨ Aston ✨ (2021 - н.в.)
 - 😄 I am good at React, Redux Toolkit, RTK Query, TypeScript.
 - 🔭 Worked on projects with React Router DOM, React Hook Form, Zod, SVGR,  CSS-modules, JS, HTML, CSS, git, React Testing Library.
 - 📫 How to reach me: angelinaivanova16@gmail.com, telegram: @angelinanikiv
