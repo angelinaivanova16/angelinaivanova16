@@ -1,8 +1,7 @@
 ### Hi there I`m Angelina 👋
-My CV: https://angelinaivanova16.github.io/cv/
-- 😄 I am good at React and Redux, REST API.
-- 🔭 Worked on project with JavaScript, HTML, CSS, version control (git, github).
-- 🌱 I’m currently learning TypeScript.
+My job: ✨ Aston ✨
+- 😄 I am good at React, Redux Toolkit, RTK Query, TypeScript.
+- 🔭 Worked on projects with React Router DOM, React Hook Form, Zod, SVGR,  CSS-modules, JS, HTML, CSS, git, React Testing Library.
 - 📫 How to reach me: angelinaivanova16@gmail.com, telegram: @angelinanikiv
 - ⚡ My codewars:
 <img src="https://www.codewars.com/users/angelina765436877/badges/large" alt="codewars">
